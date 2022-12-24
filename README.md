@@ -42,9 +42,3 @@ example.com/install <br>
  <a href="https://technosmarter.com">Techno Smarter </a>
  # Home Credito loan finance management multipurpose system in PHP
  <a href="https://technosmarter.com/item/home-credito-loan-finance-management-multipurpose-system-in-php">Home Credito loan finance management multipurpose system in PHP</a>
- 
- 
- 
-
-
-
