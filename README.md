@@ -45,7 +45,7 @@ If you are in the finance department and looking for a finance system or loans m
 
 <strong>20.Installer –</strong> We developed it with the installer. You can easily install it on your localhost server or live server with a form only. If you are running any website and want to install with the existing website then it’s possible to upload in any folder and install with the existing site.<br> 
 # Installation
-This is very easy to install on localhost and live server. 
+This is very easy to install on localhost and live server. <br>
 1.Upload a zip file and extract it into the path or folder where you want to run the system. 
 Get <a href="https://technosmarter.com/item/home-credito-loan-finance-management-multipurpose-system-in-php">Home Credito finance management system</a> from here and download zip file.<br>  
 2. Open URL on your browser like – <br>
