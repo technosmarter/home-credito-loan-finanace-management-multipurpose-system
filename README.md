@@ -27,7 +27,8 @@ If you are in the finance department and looking for a finance system or loans m
 <strong>20.Installer –</strong> We developed it with the installer. You can easily install it on your localhost server or live server with a form only. If you are running any website and want to install with the existing website then it’s possible to upload in any folder and install with the existing site.<br> 
 # Installation
 This is very easy to install on localhost and live server. 
-1.Upload a zip file and extract it into the path or folder where you want to run the system. Get Home Credito finance management system from here and download zip file.<br>  
+1.Upload a zip file and extract it into the path or folder where you want to run the system. 
+Get <a href="https://technosmarter.com/item/home-credito-loan-finance-management-multipurpose-system-in-php">Home Credito finance management system</a> from here and download zip file.<br>  
 2. Open URL on your browser like – <br>
 For localhost – localhost/project_name/install<br> 
 For live server <br>
@@ -36,7 +37,12 @@ example.com/install <br>
 4.After that process if all details are correct then you will need to wait just 5 seconds. <br>
 5.After that, you will see create user form. This user will be an admin. Enter the first name, email, and password and confirm the password then click on submit. That’s it. <br>
 6.You have successfully installed your system. Go to the general setting and set your path URL with a forward slash /. <br>
- The loan management system or you can say finance system is developed on PHP PDO + Oops + Prepared + Filters. This is a completely secured and responsive system .<br> 
+ The loan management system or you can say finance system is developed on PHP PDO + Oops + Prepared + Filters. This is a completely secured and responsive system .<br>
+ # Developer 
+ <a href="https://technosmarter.com">Techno Smarter </a>
+ # Home Credito loan finance management multipurpose system in PHP
+ <a href="https://technosmarter.com/item/home-credito-loan-finance-management-multipurpose-system-in-php">Home Credito loan finance management multipurpose system in PHP</a>
+ 
  
  
 
