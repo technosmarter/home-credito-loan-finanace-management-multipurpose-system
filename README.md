@@ -2,20 +2,37 @@
 Home credito is a finance solution system. Finance management system is created with PHP,MYSQL,AJAX, Bootstrap and jQuery. 
 Home credito is a loan management multipurpose system written in PHP. You can use it for loan management, Finance system,  products,price tables plans,
 services, and any business packages. The Home credito is based on the Home Credit website. 
+![image](https://user-images.githubusercontent.com/41726733/209430445-44bc704f-c6ab-4763-818f-bcc28ee120ef.png)
+
 If you are looking website like Home credit then it will be very helpful for you. This is a complete secured, responsive, and lightweight loan management system.
 We have designed many features and modules in this web application. 
 If you are in the finance department and looking for a finance system or loans management system then it will be helpful for you.
+![image](https://user-images.githubusercontent.com/41726733/209430464-ebd5553e-019d-4c98-a043-9ad70b0dbbd1.png)
+
 # Features – 
 <strong>1.Menus –</strong> We designed and developed the top menu, main menu (Primary Menu ), and footer menu. <br>
 <strong>2.Slider –</strong> You can set your banners(Slides) from the admin panel with title, button text, and link. <br>
+![image](https://user-images.githubusercontent.com/41726733/209430473-78532a72-efb1-4435-9b19-57ee0a637b43.png)
+
 <strong> 3.Testimonials -</strong> You will get a testimonial to feature with it. <br>
-<strong>4.Products-</strong> Product feature is one of the major features of this management system. 5.Price Tables – Price tables will be used to display your plan with or without price.<br>
+<strong>4.Products-</strong> Product feature is one of the major features of this management system.<br>
+5.Price Tables – Price tables will be used to display your plan with or without price.<br>
+![image](https://user-images.githubusercontent.com/41726733/209430486-639fc41d-c214-467f-8afd-21d1ab441827.png)
+
  <strong>6.FAQ –</strong> Full form of FAQ is a frequently asked question. <br>
 <strong>7.Apply Now form –</strong> The apply now form is developed with PHP PDO and AJAX. It will help you to get details from the user on your website. You can check users' details in applications on the admin panel. <br>
+![image](https://user-images.githubusercontent.com/41726733/209430491-dcef7c28-6b99-4717-a85b-c0a0542a0420.png)
+
  <strong>8.Blog Posts-</strong> We have developed a blog system with this web application. You can publicize any post related to your business offers or news. <br>
+ ![image](https://user-images.githubusercontent.com/41726733/209430496-83799ec3-b89c-4eb7-8906-d2abcc2c85ef.png)
+
  <strong>9.Products Page –</strong> You can see all created products on the products page. <br>
+ ![image](https://user-images.githubusercontent.com/41726733/209430508-3f64f9ff-e239-4522-85da-00eb24923ec5.png)
+
  <strong>10.Posts Page –</strong> All blog posts will display on the posts page. <br>
 <strong>11.Contact Us page –</strong> Visitors can contact by a contact form. You can set your email from the admin panel. <br>
+![image](https://user-images.githubusercontent.com/41726733/209430513-cf0925a9-b262-4639-906c-268f33f5e311.png)
+
  <strong>12.Admin Panel –</strong> We have designed an Admin panel to control the complete system. <br>
  <strong>13.User Manager -</strong> You can manage admin users from the user manager on the admin panel. Add new admin, delete admin, or edit admin password. <br>
 <strong>14.General Settings –</strong> The general setting is more important. You can set Website Title(Home Page Title), Website URL, Path, website logo, website favicon, Website Email, Contact Email, Home Page Meta Description (Index page, Home page ), Home Page meta tags, and currency symbol. <br>
@@ -24,6 +41,8 @@ If you are in the finance department and looking for a finance system or loans m
 <strong>17.Product manager –</strong> In product manager, you can create your business product or any loan product with price tables and FAQ.<br> 
 <strong>18.Boxes –</strong> Boxes represent card. You can set icons, title, and content . These boxes will display on the home page . <br>
 <strong>19. Admin -</strong>  Admin login , forgot password , change password . <br>
+![image](https://user-images.githubusercontent.com/41726733/209430521-35ec93ee-f640-427c-ac44-4cf3eb175a92.png)
+
 <strong>20.Installer –</strong> We developed it with the installer. You can easily install it on your localhost server or live server with a form only. If you are running any website and want to install with the existing website then it’s possible to upload in any folder and install with the existing site.<br> 
 # Installation
 This is very easy to install on localhost and live server. 
